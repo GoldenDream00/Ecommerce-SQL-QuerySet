@@ -1,8 +1,8 @@
-# Projeto Lógico de Banco de Dados
+# Database Logical Design
 
 ## Bootcamp DIO - Database Experience
 
-#### Detalhes do projeto
+#### Project Details
 
 - MySQL
 - MySQL Workbench
